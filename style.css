@@ -1,0 +1,104 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family: 'Poppins', sans-serif;
+}
+.cabecalho {
+    background-color: #e5d29b;
+    color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.cabecalho-imagem{
+    width: 30%;
+}
+
+.cabecalho-lista-item{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 16px;
+}
+
+.Lendas1-imagem{
+    width: 20%;
+}
+
+
+.Lendas1-div-conteudo{
+    width: 70%;
+}
+
+
+.Lendas1-titulo{
+    padding: 24px 0;
+}
+
+.Lendas1{
+    background-image: linear-gradient(#e5d29b,#cdbc86);
+    color:rgb(0, 0, 0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 0;
+}
+
+
+.Lendas1-div-conteudo{
+    width: 60%;
+}
+
+.Lendas1-texto-um
+{ padding: 15px 0}
+
+.Lendas2{
+    padding: 24px 0;
+}
+.Lendas2-imagem{
+    width: 220px;
+}
+
+.Lendas2-icone{
+    width: 24px;
+    padding: 4px 8px;
+}
+
+.Lendas2-div{
+    text-align: center;
+    padding: 20px 0;
+}
+
+.Lendas2-titulo{
+
+    text-align: center;
+    padding: 50px 0;
+}
+
+.todas-as-lendas{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% ;
+
+}
+
+.rodape{
+    background-color: #e5d29b;
+    text-align: center;
+}
+
+.rodape-imagem{
+    height: 180px;
+
+    padding: 24px 0;
+}
+
+.Lendas2-icone{
+    height: 30px;
+}
+
+.Lendas2-imagem{
+    padding: 20
+}
